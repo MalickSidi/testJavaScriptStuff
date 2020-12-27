@@ -1,0 +1,25 @@
+*, body {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.header {
+    width: 100%;
+    background: #343434;
+    color: #fff; 
+}
+
+.header h1 {
+    padding: 2rem;
+}
+
+.badge {
+    margin: 1.2rem;
+    padding: 1.2rem;
+    background: #ffc343;
+    width: 130px;
+    text-align: center;
+    color: #fff;
+    font-size: 24px;
+    border-radius: 8rem;
+}
